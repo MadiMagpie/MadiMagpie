@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
 🎓 &nbsp;Recently graduated from BCIT's Digital Design and Development program.\
-🌱 &nbsp;I'm on track for learning more about Augmented Reality, polishing my animations, and learning more about meaningful user experiences .\
+🌱 &nbsp;I'm on track for learning more about Augmented Reality, polishing my animations, and learning more about creating meaningful user experiences .\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me if you're interested in working together, have questions about a project or just to chat.\
 ✉️ &nbsp;You can shoot me an email at mcafikirwin@fablefox.ca! I'll try to respond as soon as I can.
