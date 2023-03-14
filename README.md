@@ -1,7 +1,7 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Madison</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Madison Cafik-Irwin-->
-
+<br>
 ### 👩🏼‍💻🌻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
