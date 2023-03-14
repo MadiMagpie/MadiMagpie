@@ -39,7 +39,7 @@
 </a>
 </p>
 <br> 
-### 🤝🏻&nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-Fablefox.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
