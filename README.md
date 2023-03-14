@@ -1,7 +1,6 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Madison</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Madison Cafik-Irwin-->
-<br>
 
 ### 👩🏼‍💻🌻 &nbsp;About Me
 
@@ -11,7 +10,6 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me if you're interested in working together, have questions about a project or just to chat.\
 ✉️ &nbsp;You can shoot me an email at mcafikirwin@fablefox.ca! I'll try to respond as soon as I can.
-
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,7 +40,6 @@
 </p>
 <br> 
 ### 🤝🏻&nbsp;Connect with Me
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-Fablefox.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
