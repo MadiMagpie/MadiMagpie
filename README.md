@@ -3,7 +3,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Madison Cafik-Irwin-->
 <br>
 
-###👩🏼‍💻🌻 &nbsp;About Me
+### 👩🏼‍💻🌻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
 🎓 &nbsp;Recently graduated from BCIT's Digital Design and Development program.\
@@ -41,9 +41,10 @@
 </a>
 </p>
 <br> 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻&nbsp;Connect with Me
+### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-Fablefox.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/madison-cafik-irwin-475828a9/"><img src="https://img.shields.io/badge/-Madison%20CafikIrwin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mcafikirwin@fablefox.ca"><img src="https://img.shields.io/badge/-mcafikirwin@fablefox.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
