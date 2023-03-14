@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Madison</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Madison</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Madison Cafik-Irwin-->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏼‍💻🌻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
 🎓 &nbsp;Recently graduated from BCIT's Digital Design and Development program.\
@@ -11,7 +11,6 @@
 💬 &nbsp;Feel free to reach out to me if you're interested in working together, have questions about a project or just to chat.\
 ✉️ &nbsp;You can shoot me an email at mcafikirwin@fablefox.ca! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -44,9 +43,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/madison-cafik-irwin-475828a9/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mcafikirwin@fablefox.ca"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/fablefox.create"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/madisoncafik-i"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-Fablefox.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/madison-cafik-irwin-475828a9/"><img src="https://img.shields.io/badge/-Madison%20CafikIrwin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mcafikirwin@fablefox.ca"><img src="https://img.shields.io/badge/-mcafikirwin@fablefox.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/fablefox.create"><img src="https://img.shields.io/badge/-@fablefox.create-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.behance.net/madisoncafik-i"><img src="https://img.shields.io/badge/-@mcafikirwin-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
