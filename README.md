@@ -2,7 +2,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Madison Cafik-Irwin-->
 <br>
-### 👩🏼‍💻🌻 &nbsp;About Me
+
+###👩🏼‍💻🌻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
 🎓 &nbsp;Recently graduated from BCIT's Digital Design and Development program.\
