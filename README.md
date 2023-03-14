@@ -9,9 +9,10 @@
 🌱 &nbsp;I'm on track for learning more about Augmented Reality, polishing my animations, and learning more about meaningful user experiences .\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me if you're interested in working together, have questions about a project or just to chat.\
-✉️ &nbsp;You can shoot me an email at mcafikirwin@fablefox.ca! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at mcafikirwin@fablefox.ca! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,16 +31,16 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MadiMagpie">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadiMagpie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadiMagpie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<br> 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
