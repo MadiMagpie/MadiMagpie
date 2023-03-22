@@ -38,8 +38,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadiMagpie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br> 
-### 🤝🏻 &nbsp;Connect with Me
+
+
+###  🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="https://www.fablefox.ca"><img src="https://img.shields.io/badge/-Fablefox.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
