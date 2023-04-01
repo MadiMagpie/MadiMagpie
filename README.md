@@ -33,6 +33,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadiMagpie&label=Profile%20views&color=0e75b6&style=flat" alt="MadiMagpie" /> </p>
 <a href="https://github.com/MadiMagpie">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadiMagpie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadiMagpie&layout=compact&langs_count=8&theme=algolia"/>
