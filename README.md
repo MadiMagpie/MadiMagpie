@@ -5,7 +5,7 @@
 ### 👩🏼‍💻🌻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and design & develop beautiful and interesting projects.\
-🎓 &nbsp;Recently graduated from BCIT's Digital Design and Development program.\
+🎓 &nbsp;Graduating from BCIT's Digital Design and Development program.\
 🌱 &nbsp;I'm learning Python so I can make a pen plotter on my Raspberry Pi!. I'm also getting started in AR. \
 ✍️ &nbsp;In my free time, I draw digitally, read, and hike.\
 💬 &nbsp;Feel free to reach out to me if you're interested in working together, have questions about a project or just to chat.\
